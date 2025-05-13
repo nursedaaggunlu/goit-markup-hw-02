@@ -1,11 +1,10 @@
-@import url("https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
 
 body {
   font-family: "Roboto", sans-serif;
   font-size: 16px;
   line-height: 24px;
-  letter-spacing: 2px;
+  letter-spacing: 0.32px;
   color: #434455;
 }
 
@@ -14,7 +13,7 @@ header > a {
   font-weight: 700;
   font-size: 18px;
   line-height: 21px;
-  letter-spacing: 3px;
+  letter-spacing: 0.54px;
   text-decoration: none;
 }
 
@@ -22,7 +21,7 @@ header > nav > ul > li > a {
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
-  letter-spacing: 2px;
+  letter-spacing: 0.32px;
   color: #2e2f42;
   text-decoration: none;
 }
@@ -42,7 +41,7 @@ header > nav > ul > li:first-child > a:active {
 header > address > ul > li > a {
   font-size: 16px;
   line-height: 24px;
-  letter-spacing: 2px;
+  letter-spacing: 0.32px;
   font-style: normal;
   color: #434455;
   text-decoration: none;
@@ -59,7 +58,7 @@ footer > a {
   font-weight: 700;
   font-size: 18px;
   line-height: 21px;
-  letter-spacing: 3px;
+  letter-spacing: 0.54px;
   text-decoration: none;
 }
 
@@ -75,7 +74,7 @@ h1 {
   font-weight: 700;
   font-size: 56px;
   line-height: 60px;
-  letter-spacing: 2px;
+  letter-spacing: 1.12px;
   color: #ffffff;
   background-color: #2e2f42;
 }
@@ -84,7 +83,7 @@ h2 {
   font-weight: 700;
   font-size: 36px;
   line-height: 40px;
-  letter-spacing: 2px;
+  letter-spacing: 0.72px;
   color: #2e2f42;
 }
 
@@ -92,7 +91,7 @@ h3 {
   font-weight: 500;
   font-size: 20px;
   line-height: 24px;
-  letter-spacing: 2px;
+  letter-spacing: 0.4px;
   color: #2e2f42;
 }
 
@@ -100,7 +99,7 @@ button {
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
-  letter-spacing: 4px;
+  letter-spacing: 0.64px;
   color: #ffffff;
   background-color: #4d5ae5;
   cursor: pointer;
